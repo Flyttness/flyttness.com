@@ -32,4 +32,4 @@ In addition the following Visual Studio plugins have been pre-installed:
 
 Happy coding.
 
-Crafted with care by flyttness.co.nz (c) 2024
+Crafted with care by flyttness.ai (c) 2024
